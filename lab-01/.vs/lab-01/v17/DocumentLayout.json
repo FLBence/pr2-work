@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Munka\\pr2-work\\lab-01\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D10ADF05-3CA7-4208-8A4C-9F572A2BAEC7}|lab-01\\lab-01.vcxproj|C:\\Munka\\pr2-work\\lab-01\\lab-01\\k.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D10ADF05-3CA7-4208-8A4C-9F572A2BAEC7}|lab-01\\lab-01.vcxproj|solutionrelative:lab-01\\k.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D10ADF05-3CA7-4208-8A4C-9F572A2BAEC7}|lab-01\\lab-01.vcxproj|C:\\Munka\\pr2-work\\lab-01\\lab-01\\Nevek.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{D10ADF05-3CA7-4208-8A4C-9F572A2BAEC7}|lab-01\\lab-01.vcxproj|solutionrelative:lab-01\\Nevek.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Nevek.txt",
+              "DocumentMoniker": "C:\\Munka\\pr2-work\\lab-01\\lab-01\\Nevek.txt",
+              "RelativeDocumentMoniker": "lab-01\\Nevek.txt",
+              "ToolTip": "C:\\Munka\\pr2-work\\lab-01\\lab-01\\Nevek.txt",
+              "RelativeToolTip": "lab-01\\Nevek.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-02-27T09:45:44.297Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "k.cpp",
+              "DocumentMoniker": "C:\\Munka\\pr2-work\\lab-01\\lab-01\\k.cpp",
+              "RelativeDocumentMoniker": "lab-01\\k.cpp",
+              "ToolTip": "C:\\Munka\\pr2-work\\lab-01\\lab-01\\k.cpp",
+              "RelativeToolTip": "lab-01\\k.cpp",
+              "ViewState": "AQIAAAMAAAAAAAAAAADwvwsAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-02-27T09:37:54.468Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
