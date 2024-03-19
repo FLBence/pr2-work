@@ -1,0 +1,3 @@
+﻿  lab-04.cpp
+C:\Munka\pr2-work\lab-04\Project1\Project1\lab-04.cpp(50,7): warning C4101: 'szoveg': unreferenced local variable
+  Project1.vcxproj -> C:\Munka\pr2-work\lab-04\Project1\x64\Debug\Project1.exe
